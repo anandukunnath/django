@@ -1,2 +1,3 @@
 gunicorn==20.0.4
-
+psycopg2==2.7.5, priority
+django-heroku==0.3.1
