@@ -1,1 +1,2 @@
-web: gunicorn kalappa.wsgi
+web: gunicorn app:kalappa
+
