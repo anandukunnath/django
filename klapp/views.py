@@ -3,8 +3,8 @@ import pytz
 import time
 import netifaces as ni
 
-ni.ifaddresses('wlp6s0')
-ip = ni.ifaddresses('wlp6s0')[ni.AF_INET][0]['addr']
+#ni.ifaddresses('wlp6s0')
+#ip = ni.ifaddresses('wlp6s0')[ni.AF_INET][0]['addr']
 
 
 # Create your views here.
