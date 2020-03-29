@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import pytz
 import time
-import netifaces as ni
+#import netifaces as ni
 
 #ni.ifaddresses('wlp6s0')
 #ip = ni.ifaddresses('wlp6s0')[ni.AF_INET][0]['addr']
