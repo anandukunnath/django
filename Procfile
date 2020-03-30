@@ -1,2 +1,2 @@
-web: gunicorn kalappa.wsgi --log-file -
+web: gunicorn manage:app
 
